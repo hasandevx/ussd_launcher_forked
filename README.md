@@ -1,5 +1,5 @@
-# ussd_launcher
-A Flutter plugin to launch USSD requests and manage multi-step USSD sessions on Android directly from your application.
+# ussd_launcher_forked
+ The forked version of ussed_launcher. A Flutter plugin to launch USSD requests and manage multi-step USSD sessions on Android directly from your application.
 
 
 ## Features
